@@ -1,0 +1,1 @@
+store global css, images, any file that is not javascript code.
